@@ -1,2 +1,2 @@
 # hello
-Just another repository
+Editing in the new branch
